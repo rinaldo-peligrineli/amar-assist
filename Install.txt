@@ -3,11 +3,12 @@ https://github.com/rinaldo-peligrineli/amar-assist
 
 2-	Depois de baixar o projeto, descompacta-lo executar os comandos abaixo
   
-  2.1 Criar o banco de dados  “amar_assist_db" com o charset igual a utf8 e collation igual a utf8_general_ci
-  2.2 php artisan migrate
-  2.3 php artisan db:seed
+  2.1 - renomear o arquivo .env.example para .env
+  2.2 Criar o banco de dados  “amar_assist_db" com o charset igual a utf8 e collation igual a utf8_general_ci
+  2.3 php artisan migrate
+  2.4 php artisan db:seed
 
-5 Na pasta onde o projeto foi descompactado, iniciar o servidor do laravel atráves do comando 
+3 Na pasta onde o projeto foi descompactado, iniciar o servidor do laravel atráves do comando 
   php artisan serve
 
-6 Iniciar a aplicação através do link  http:localhost:8000/contato
+4 Iniciar a aplicação através do link  http:localhost:8000/contato
