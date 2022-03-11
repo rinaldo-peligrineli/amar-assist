@@ -1,0 +1,12 @@
+.tituloAplicacao {
+    background-color: #FF6600;
+    color:#FFFFFF;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:10px;
+    padding: 10px;
+    text-align:center;
+    width: 800px;
+}
